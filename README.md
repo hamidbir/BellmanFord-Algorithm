@@ -9,7 +9,7 @@ It is slower than Dijkstra's Algorithm but more versatile, as it capable of hand
 
 ![bellman](https://user-images.githubusercontent.com/44016199/59676610-2a994b00-91dd-11e9-9df8-718892e0c3fc.png)
 
-#Applied example
+# Applied example
 ---------------------------------
 magine a scenario where you need to get to a baseball game from your house. Along the way, on each road, one of two things can happen. First, sometimes the road you're using is a toll road, and you have to pay a certain amount of money. Second, sometimes someone you know lives on that street (like a family member or a friend). Those people can give you money to help you restock your wallet. You need to get across town, and you want to arrive across town with as much money as possible so you can buy hot dogs. Given that you know which roads are toll roads and which roads have people who can give you money, you can use Bellman-Ford to help plan the optimal route.
 
