@@ -15,3 +15,6 @@ magine a scenario where you need to get to a baseball game from your house. Alon
 
 Instead of your home, a baseball game, and streets that either take money away from you or give money to you, Bellman-Ford looks at a weighted graph. The graph is a collection of edges that connect different vertices in the graph, just like roads. The edges have a cost to them. Either it is a positive cost (like a toll) or a negative cost (like a friend who will give you money). So, in the above graphic, a red arrow means you have to pay money to use that road, and a green arrow means you get paid money to use that road. In the graph, the source vertex is your home, and the target vertex is the baseball stadium. On your way there, you want to maximize the number and absolute value of the negatively weighted edges you take. Conversely, you want to minimize the number and value of the positively weighted edges you take. Bellman-Ford does just this.
 
+![bell](https://user-images.githubusercontent.com/44016199/59824263-deb5e580-9345-11e9-900a-79da5fb649f3.gif)
+
+
